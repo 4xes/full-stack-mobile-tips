@@ -5,9 +5,11 @@ You hit this page cause you want to be ready for high profile full-stack-mobile 
 ## Android
 
 Extremely convenient from DevOps perspective
-*  Mark L. Murphy The Busy Coder's Guide to Android Development
-*  http://www.vogella.com/tutorials/Android/article.html
-*  http://developer.android.com/index.html
+* Effective Java by Joshua Bloch
+* Mark L. Murphy The Busy Coder's Guide to Android Development
+* http://www.vogella.com/tutorials/Android/article.html
+* http://developer.android.com/index.html
+* Kotlin https://kotlinlang.org/
 
 You can find all news about Android
 * http://android-developers.blogspot.ru/
@@ -15,6 +17,7 @@ You can find all news about Android
 ## iOS
 * Effective Objective-C 2.0 by Matt Galloway 
 * Erica Sadun OS Auto Layout Demystified
+* Swift https://swift.org/
 
 ## Architecture
 * Clean Codeby Robert Cecil Martin
